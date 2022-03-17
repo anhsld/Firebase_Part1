@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473577784313",
+    "project_id": "loginregister-565ef",
+    "storage_bucket": "loginregister-565ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473577784313:android:42ae68e1ac45e783f9b328",
+        "android_client_info": {
+          "package_name": "anhpham.ueh.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473577784313-higo88es0a9cp18lc3umidr77cbmhs7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anhpham.ueh.loginandregister",
+            "certificate_hash": "f52c908b79a7405aa5562c058456571b0aa7ff89"
+          }
+        },
+        {
+          "client_id": "473577784313-bli8521uf4aatruf257fh19lvgbill5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgkmWOtc34aFQsYqELgVxYOexz76Con8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473577784313-bli8521uf4aatruf257fh19lvgbill5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
